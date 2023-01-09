@@ -1,0 +1,440 @@
+body{
+    margin: 0;
+}
+.mainc{
+    height: 3000px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.container{
+    
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    
+}
+.header{
+    overflow: hidden;
+    width: 100%;
+    height: 101px;
+    background:#ffffff;
+    position: absolute;
+    top: 0%;
+    box-shadow: #000000;
+    box-shadow: 1px 1px 3px #888888;
+    opacity: 95%;
+    
+
+    
+    }
+.logo{
+    overflow: hidden;
+    width: 100px;
+    height: 70px;
+    background: white;
+    
+    
+}
+.logo img{
+    height: 70%;
+    margin-left: 45px;
+    margin-top: 20px;
+    float: left;
+    background: rgb(248, 246, 246);
+}
+.option-controls{
+    font-size: 13px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing: 1.4px;
+    color: #000000,;
+    opacity: 87%;
+    position: relative;
+    left: 102px;
+    bottom: 66px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    overflow: hidden;
+}
+.option-controls td{
+    padding-left: 25px;
+}
+
+.location {
+    background-color: white;
+    height: 24px;
+    width: 24px;
+    position: relative;
+    left: 1128px;
+    bottom: 30px;
+    font-size: 14px;
+
+}
+.store{
+    overflow: hidden;
+    font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.16px;
+font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+position: relative;
+left: 1163px;
+    bottom: 80px;
+
+}
+.headbutton button{
+
+position: relative;
+left: 1262px;
+bottom: 107px;
+border-radius:50px;
+font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+background: #ffffff;
+opacity: 87%;
+letter-spacing: -0.16px;
+text-align: center;
+font-size: 14px;
+line-height: 16.8px;
+width: 78px;
+height: 32px;
+
+
+}
+.headbutton2 button{
+    position: relative;
+    left: 1359px;
+    bottom: 140px;
+border-radius:50px;
+font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+background: #000000;
+fill:#ffffff;
+box-shadow: none;
+color:white;
+width:93px ;
+height: 32px;
+}
+.content1{
+    overflow: hidden;
+    width: 1440px;
+    height: 157px;
+    background: #d4e9e2;
+    position: relative;
+    left: 41px;
+    bottom: -102px;
+
+}
+.content1 p{
+    position: relative;
+    
+    bottom: -3px;
+    color: #1e3932;
+    font-size: 24px;
+    text-align: center;
+    line-height: 36px;
+    letter-spacing: -o.16px;
+    font-weight: bold;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.reg p{
+    font-size: 8px;
+    position: relative;
+    left: 98px;
+    bottom: 59px;
+
+}
+.content2{
+    position: relative;
+    bottom: -21px;
+    left: -15px;
+}
+
+.content2 p{
+    overflow: hidden;
+    position: relative;
+    left:23px ;
+    color: #1e3932;
+    font-size: 19px;
+    text-align: center;
+    line-height: 33.25px;
+    letter-spacing: -o.16px;
+    bottom: -5pxpx;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.main{
+    float: left;
+    height: 625px;
+    width: 1440px;
+    background-color: red;
+    position: relative;
+    left: 41px;
+    bottom: -68px;
+    
+}
+.firstpic{
+    background-color: #3d7170;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.p1{
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 2px;
+color: #ffffff;
+font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.glasspic{
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.p2{
+    font-size: 24px;
+    text-align: center;
+    line-height: 36px;
+    letter-spacing: -0,16px;
+    color: #ffffff;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.main2{
+    overflow: hidden;
+    float: left;
+    height: 625px;
+    width: 1440px;
+    background-color: red;
+    position: relative;
+    left:41px;
+    bottom: -102px;
+}
+.firstpic button{
+    border-radius: 50px;
+    position: relative;
+    bottom: -84px;
+    left: 322px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.16px;
+    color: #ffffff;
+    opacity: 150%;
+    background: #3d7170;
+    fill: #ffffff;
+    border-color: #ffffff;
+    box-shadow: none;
+    border-style: solid;
+}
+.cuppic{
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.pinkpic{
+    background-color: #f4c5a1;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.p3{
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #1e3932;
+}
+.p4{
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: -0.16px;
+    color: #1e3932;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.pinkpic button{
+    border-radius: 50px;
+    position: relative;
+    bottom: -84px;
+    left: 322px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.16px;
+    color: #000000;
+    opacity: 87%;
+    background: #f4c5a1;
+
+}
+.main3{
+    float: left;
+    height: 625px;
+    width: 1440px;
+    background-color: red;
+    position: relative;
+    left:41px;
+   
+    
+    bottom: -137px
+
+}
+.p5{
+    overflow: hidden;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+
+}
+.p6{
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: -0.16px;
+    color: #ffffff;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.wrappic{
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.maroon{
+   background: #8b323e;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.maroon button{
+    border-radius: 50px;
+    position: relative;
+    bottom: -84px;
+    left: 322px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.16px;
+    color: #ffffff;
+    opacity: 150%;
+    background:#8b323e;
+    fill: #ffffff;
+    border-color: #ffffff;
+    box-shadow: none;
+    border-style: solid;
+
+}
+.content-4{
+    background-color: white;
+    overflow: hidden;
+    height: 123px;
+    width: 334px;
+    position: relative;
+    left: 682px;
+    bottom: -200px;
+    color: rgb(9, 9, 9);
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+}
+
+  
+.container2{
+    width: 100%;
+    height: 1500px;
+    background-color: green;
+    position: relative;
+    bottom: 20px;
+}
+.aboutus{
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: transparent;
+    width: 100%;
+    height: 440px;
+    position:absolute;
+    top: 61px;
+    left: -16px;
+    
+}
+#line{
+    background-color: rgb(188, 183, 183);
+    position: relative;
+    bottom: -117px;
+    opacity: 50%;
+   
+}
+.footer{
+    width: 78%;
+    height: 388px;
+    position: absolute;
+    bottom: -2271px;
+    left: 64px;
+    overflow: hidden;
+    
+}
+.tableopacity{
+    width: 78%;
+    height: 388px;
+    background-color: white;
+    position: absolute;
+    bottom: -2296px;
+    left: 30px;
+    opacity: 31%;
+}
+
+
+
+#thead{
+    text-align: left;
+}
+#line2{
+    background-color: rgb(188, 183, 183);
+    position: relative;
+    bottom: -557px;
+    opacity: 33%;
+    width: 95%;
+}
+.logopanel{
+    overflow: hidden;
+    width: 100%;
+    height:100px ;
+    background-color: red;
+}
+.socialmedia{
+    overflow: hidden;
+   top: 2856px;
+    height: 122px;
+    width: 50%;
+    position: absolute;
+    left: 23px;
+   
+}
+.socialmedia img{
+    width: 37%;
+    height: 32%;
+}
+.privacy{
+    width: 80%;
+    height: 8%;
+    background-color: white;
+    position: absolute;
+    top: 2927px;
+    left: 38px;
+    font-size: 16px;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 1.84px;
+    opacity: 87%;
+    overflow: hidden;
+}
+
+.copyright{
+    font-size: 14px;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: relative;
+    left: 34px;
+    bottom: 35px;
+    opacity: 58%;
+}   
